@@ -1,0 +1,392 @@
+/* ERROW AT NAV 1 */
+*{
+    margin: 0;
+}
+.net{
+    display: inline-block;
+    padding: 10px;
+    float: left;
+    width: 10%;
+    
+}
+
+
+.phone1{
+    padding-left: 15%;
+    padding: 10%;
+}
+
+#mango ul li{
+    color: white;
+}
+
+.sec1{
+    background-color: rgb(44, 43, 43);
+    height: 570px;
+}
+
+.two{
+    color: rgba(210, 193, 38, 0.717);
+}
+
+h1{
+    color: white;
+}
+
+.three{
+    color: rgba(99, 97, 97, 0.908);
+}
+
+.four{
+    border: 0px solid;
+    border-radius: 50px;
+    background-color: rgb(229, 156, 19);
+    color: white;
+    width: 15%;
+    text-align: center;
+    padding: 10px;  
+}
+
+/* This Place */
+
+.five{
+    border: 0px solid;
+    width: 15%;
+    border-radius: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+.wire{
+    text-decoration: none;
+}
+
+.wire2{
+    text-decoration: none;
+    color: white;
+}
+
+.wire3{
+    /* display: inline-block; */
+}
+
+.six{
+    float: right;
+    position: relative;
+}
+
+.seven{
+    position: absolute;
+    left: 860px;
+    top: 40%;
+}
+
+
+.sec2{
+    background-color: white;
+    height: 350px;
+    padding: 10%;
+}
+
+.eight{
+    color: rgb(207, 155, 26);
+}
+
+.wire4{
+    color: black;
+}
+
+
+.oic li{
+    display: inline-block;
+    width: 23%;
+    border: 0px solid black;
+}
+
+.laptop1 i{
+    background-color:goldenrod;
+    padding: 5%;
+    border-radius: 50%;
+}
+
+.laptop1 a{
+    color: black;
+}
+
+ .laptop2 i{
+    background-color: goldenrod;
+    padding: 5%;
+    border-radius: 50%;
+}
+
+.laptop2 a{
+    color: black;
+ }
+
+ .laptop3 i{
+    background-color: goldenrod;
+    padding: 5%;
+    border-radius: 50%;
+ }
+
+ .laptop3 a{
+    color: black;
+ }
+
+ .laptop4 i{
+    background-color: goldenrod;
+    padding: 5%;
+    border-radius: 50%;
+}
+
+.laptop4 a{
+    color: black;
+}
+ 
+h3{
+    color: black;
+}
+
+small{
+    color: black;
+}
+
+
+
+.sec3{
+    background-color: rgba(28, 27, 27, 0.919);
+    height: 470px;
+    padding: 5%;
+}
+
+.rod{
+    position: relative;
+}
+
+
+.door{
+    color: rgb(211, 152, 44);
+}
+
+.door2{
+    color: rgba(105, 101, 101, 0.977);
+}
+
+.phone2{
+    float: right;
+    padding: 10%;
+}
+
+.pen{
+    background-color: rgb(216, 148, 20);
+    border-radius: 50px;
+    text-align: center;
+    width: 45%;
+    padding: 2.5%;
+}
+
+.sec4{
+    background-color:white;
+    padding: 7%;
+    height: 380px;
+}
+
+.key1{
+    color: black;
+}
+
+.phone3{
+    padding-left: 5%;
+}
+
+.nine{
+    float: right;
+}
+
+.apple{
+    color: rgb(235, 179, 74);
+}
+
+.ball{
+    color: rgba(103, 102, 102, 0.783);
+}
+
+/* .cover{
+    display: inline-block;
+} */
+
+.ten a{
+    color: rgb(89, 88, 88);
+}
+
+.ten i{
+    background-color: white;
+    padding: 2%;
+    border-radius: 50%;
+    border: 2px solid rgb(105, 104, 104);
+}
+
+.ten{
+    /* float: right; */
+}
+
+.ten1 a{
+    color: black;
+}
+
+.ten1 i{
+    background-color: white;
+    padding: 2%;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.sec5{
+    background-color: rgba(35, 34, 34, 0.928);
+    padding: 5%;
+    
+}
+
+.shoe{
+    float:left;
+    width: 50%;
+}
+
+/* MONITOR */
+
+
+
+.shoe2{
+    float:right;
+    width: 50%;
+}
+
+
+.light1{
+    color: rgba(126, 126, 126, 0.928);
+}
+
+.light2{
+    color: rgba(126, 126, 126, 0.928);
+}
+
+.light3{
+    color: rgba(126, 126, 126, 0.928);
+}
+
+.light4{
+    color: rgba(126, 126, 126, 0.928);
+}
+
+.ten2{
+    text-align: center;
+}
+
+
+.banana ul li{
+    display: inline-block;
+}
+
+.banana1{
+    display: inline-block;
+}
+
+
+.cup3{
+    width: 50%;
+    padding: 5px;
+}
+
+.cup1{
+    border: 2px solid white;
+    border-radius: 50px;
+    text-align: center;
+    width: 15%;
+    float: right;
+    height: 35px;
+    padding-top: 15px;
+}
+
+.cup2{
+    border: 0px solid;
+    border-radius: 50px;
+    background-color: goldenrod;
+    text-align: center;
+    width: 15%;
+    height: 35px;
+    padding-top: 15px;
+    float: right;
+}
+
+
+.fan{
+    padding-bottom: 50px;
+}
+
+
+.sec11{
+    background-color: rgb(106, 106, 106);
+    margin: auto;
+    width: 80%;
+    height: 50%;
+}
+
+.rice{
+    color: rgb(194, 144, 52);
+}
+
+.cloth{
+    padding: 5%;
+}
+
+.sec12{
+    background-color: white;
+    padding: 5%;
+    height: 2px;
+    width: 35%;
+}
+
+.sec12 input{
+    color: rgb(233, 212, 179);
+}
+
+
+.sec12 div{
+    float: right;
+    background-color: rgb(210, 162, 43);
+    padding: 5px;
+}
+
+small input{
+    border: 0px solid;
+}
+
+.bag{
+    float: right;
+    /* padding: 2%; */
+    /* padding-left: 5%; */
+}
+
+#orange{
+    background-color: rgba(35, 34, 34, 0);
+    padding: 10px;
+    height: 200px;
+}
+
+.lion ul{
+    float: left;
+    padding: 80px;
+    line-height: 30px;
+    list-style-type: none;
+    color: white;
+}
+
+
+/* .pawpaw{
+    text-align: center;
+    padding: 3%;
+    color: white;
+} */
+
